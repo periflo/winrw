@@ -1,4 +1,4 @@
-# winrw - Proof of concept of a ransomware
+# winrw - Simple ransomware
 
 ## What is winrw?
 winrw (***Win***dows ***r***ansom***w***are, I know it's an original name lol) is a part of an assignment for a bootcamp in cybersecurity.
